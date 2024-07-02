@@ -1,0 +1,6 @@
+com/stu_management/mapper/UserMapper.class
+com/stu_management/entity/User.class
+com/stu_management/StuManagementApplication.class
+com/stu_management/controller/HelloController.class
+com/stu_management/service/impl/UserServiceImpl.class
+com/stu_management/service/UserService.class
